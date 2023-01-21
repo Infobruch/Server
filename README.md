@@ -1,3 +1,4 @@
 # Server
 
-Das ist hier alles nur ein Test
+Das ist ein Single Threaded Server + Client die sich automatisch connecten. 
+Client kann Nachrichten an den Server schicken
